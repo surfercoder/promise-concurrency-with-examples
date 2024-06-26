@@ -1,0 +1,12 @@
+{
+  "name": "promise-concurrency-with-examples",
+  "version": "1.0.0",
+  "description": "Learn all Promise concurrency static methods with examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["JavaScript", "Promise", "Concurrency", "Parallel", "Async"],
+  "author": "Agustin Cassani",
+  "license": "MIT"
+}
